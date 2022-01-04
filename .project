@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
 	<name>JavaImageProcessing</name>
-=======
-	<name>JavaConnect6Game</name>
->>>>>>> 4657bdc043268c60e5bae7fc5ff730ac19b2bd26
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,7 +10,6 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
-<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
@@ -35,15 +30,6 @@
 	<filteredResources>
 		<filter>
 			<id>1641311711954</id>
-=======
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-	<filteredResources>
-		<filter>
-			<id>1641310571703</id>
->>>>>>> 4657bdc043268c60e5bae7fc5ff730ac19b2bd26
 			<name></name>
 			<type>30</type>
 			<matcher>
